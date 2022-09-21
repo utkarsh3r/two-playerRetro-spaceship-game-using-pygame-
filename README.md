@@ -2,4 +2,4 @@
 
 ## controls 
 W A S D for player one 
-Arrow keys for player two
+and Arrow keys for player two
